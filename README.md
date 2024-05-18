@@ -6,6 +6,14 @@
 
 <hr>
 
+## Enunciado do Projeto:
+
+<br>
+
+![image](https://github.com/Giovannilavia11/PROJ2-SO-Escada/assets/89709011/037deaf1-718b-4182-aa44-baadbfed0172)
+
+<hr>
+
 ## Código Fonte:
 
 <br>
