@@ -10,7 +10,11 @@
 
 <br>
 
+<div align="center">
+    
 ![image](https://github.com/Giovannilavia11/PROJ2-SO-Escada/assets/89709011/037deaf1-718b-4182-aa44-baadbfed0172)
+
+</div>
 
 <hr>
 
