@@ -48,3 +48,13 @@ int main(){
     return 0;
 }
 ```
+
+<hr>
+
+## Print do Resultado do programa:
+
+<br>
+
+![image](https://github.com/Giovannilavia11/PROJ2-SO-Escada/assets/89709011/57f0cf87-756e-4548-90d2-6a28ab98e4e9)
+
+<hr>
