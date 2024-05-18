@@ -4,7 +4,7 @@
 - Felipe do Nascimento Fonseca - 10409389
 - Giovanni Alves Lavia - 10409448
 
-<hr>
+<br>
 
 ## Enunciado do Projeto:
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<hr>
+<br>
 
 ## Código Fonte:
 
@@ -61,7 +61,7 @@ int main(){
 }
 ```
 
-<hr>
+<br>
 
 ## Print 1 do resultado do programa:
 
@@ -69,20 +69,15 @@ int main(){
 
 ![image](https://github.com/Giovannilavia11/PROJ2-SO-Escada/assets/89709011/00f42290-6776-4ec0-8e03-b3212ba15e48)
 
-<hr>
-
 ## Print 2 do resultado do programa:
 
 <br>
 
 ![image](https://github.com/Giovannilavia11/PROJ2-SO-Escada/assets/89709011/4fb8a096-9cdf-418d-a6fc-36c1c4a7b35f)
 
-<hr>
 
 ## Print 3 do resultado do programa:
 
 <br>
 
 ![image](https://github.com/Giovannilavia11/PROJ2-SO-Escada/assets/89709011/0a09d6d8-8d84-4ac4-9c9d-7aec6362dcc7)
-
-<hr>
